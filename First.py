@@ -24,6 +24,7 @@ elif name.upper() == "SOUMYAA" or name.upper() == "SOUMYAA MEHTA":
 else:
     print(f"Welcome to the program, {name.title()}")
 print("")
+# FEATURES
 # NORMAL MATHEMATICS
 print("We are going to calculate sum of two numbers first")
 print("The number should be an integer")
