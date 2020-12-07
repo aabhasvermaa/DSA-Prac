@@ -1,4 +1,4 @@
-a = input("How was your day?? 
+a = input("How was your day?? :)
 if a.upper() == "GOOD":
      print("Great")
 else:
