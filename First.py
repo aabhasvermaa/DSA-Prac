@@ -157,3 +157,4 @@ else:
     print("Please input proper annotations provided. ")
     print("Annotation for (W)weight is 'W' and for (T)emperature is 'T'.")
     print("If you want to quit type 'quit' ")
+execfile('fileA.py')
